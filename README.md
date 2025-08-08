@@ -1,0 +1,2 @@
+Adding this one so it shows up, If you download this file and run main like opened as a project it should work assuming you have dependancies install. Im not a cs major and really not well versed in writing github pages and stuff such as that and the code is prolly not that optimized at all 
+and I wanna apologize for that. This has been a project ive worked on for about 5 months now as a major hobby. Thank you for trying out this game and if you use anything from it give credit. Ty - Nathan
