@@ -1,0 +1,16 @@
+{
+    "small_tank": 6,
+    "supply_truck": 5,
+    "small_plane": 4,
+    "infantry": 8,
+    "artillery": 4,
+    "stealth_plane": 4,
+    "sniper": 5,
+    "anti_air": 5,
+    "helicopter": 6,
+    "attack_helicopter": 6,
+    "bomber": 5,
+    "battle_ship": 2,
+    "medium_tank": 4,
+    "atv": 10
+}

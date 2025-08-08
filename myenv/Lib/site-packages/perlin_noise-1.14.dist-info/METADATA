@@ -1,0 +1,12 @@
+Metadata-Version: 2.3
+Name: perlin_noise
+Version: 1.14
+Summary: Python implementation for Perlin Noise with unlimited coordinates space
+Author: salaxieb
+Author-email: salaxieb.ildar@gmail.com
+Requires-Python: >=3.9,<3.13
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
